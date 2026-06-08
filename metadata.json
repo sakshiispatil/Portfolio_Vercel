@@ -1,0 +1,6 @@
+{
+  "name": "Sakship_Freelance_Service",
+  "description": "Premium personal freelance portfolio website for Sakshi, showing professional web development, hosting, SEO, and secure design services with responsive animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
